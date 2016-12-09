@@ -13,7 +13,7 @@
     <h1>ユーザー管理システム</h1>
     <p>ユーザー名 <input type="text" id="userid" name="userid" /></p>
     <p>パスワード <input type="password" id="passowrd" name="password" /></p>
-    <p><a class="btn btn-primary btn-lg" href="/" role="button">ログイン</a></p>
+    <p><a class="btn btn-primary btn-lg" href="/home" role="button">ログイン</a></p>
   </div>
 </div>
 
