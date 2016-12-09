@@ -10,9 +10,6 @@
 
 <div class="jumbotron text-center">
   <div class="container">
-    <a href="/" class="lang-logo">
-      <img src="/lang-logo.png">
-    </a>
     <h1>テクノプロエンジニアリング</h1>
     <p>九州支店</p>
     <p>ソフト２グループ</p>
